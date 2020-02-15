@@ -1,0 +1,27 @@
+############################# feature ###################################
+feature:
+  enable : true
+  image : images/about/Board.jpg
+  image_webp : images/about/Board.webp
+  title : We're an Open Innovation Lab.
+  content : "Our team is composed of interdiciplinary multipotentialites. We design, innovate and implement custom soloutions and business logic."
+  feature_item :
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-panel # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+      # feature item loop
+    - title : SEO Optimized
+      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+
+      # feature item loop
+    - title : Easy Customization
+      icon : ti-announcement # themify icon pack : https://themify.me/themify-icons
+      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
