@@ -1,8 +1,8 @@
 ############################### Banner ################################
 banner:
   enable : true
-  bg_image_webp : "images/backgrounds/Syntropy3.webp"
-  bg_image : "images/backgrounds/Syntropy3.jpg"
+  bg_image_webp : "images/backgrounds/fractalmembrane.webp"
+  bg_image : "images/backgrounds/Sbackgrounds/fractalmembrane.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "LunarPunk Labs"
   content : "Exploring syntropic practice"

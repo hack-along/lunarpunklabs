@@ -1,8 +1,8 @@
 ############################# feature ###################################
 feature:
   enable : true
-  image : images/about/Board.jpg
-  image_webp : images/about/Board.webp
+  image : images/backgrounds/Cymatics5.jpg
+  image_webp : images/backgrounds/Cymatics5.webp
   title : We're an Open Innovation Lab.
   content : "We design, innovate and implement custom soloutions and business logic."
   feature_item :
