@@ -5,7 +5,7 @@ banner:
   bg_image : "images/backgrounds/Sbackgrounds/fractalmembrane.jpg"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : "LunarPunk Labs"
-  content : "Exploring syntropic practice"
+  content : "Evolving syntropic practice"
   button:
     enable : true
     label : "More"
