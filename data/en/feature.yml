@@ -4,22 +4,22 @@ feature:
   image : images/about/Board.jpg
   image_webp : images/about/Board.webp
   title : We're an Open Innovation Lab.
-  content : "Our team is composed of interdiciplinary multipotentialites. We design, innovate and implement custom soloutions and business logic."
+  content : "We design, innovate and implement custom soloutions and business logic."
   feature_item :
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Blockchain
+      icon : ti-link # themify icon pack : https://themify.me/themify-icons
+      content : With deep experience in decentralised and distributed computing, we can filter signal throught the noise.
 
       # feature item loop
-    - title : Easy Customization
+    - title : Bespoke products
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+      content : We customise buisness logic according to your needs. This is built on top of cutting edge infrastructure and opensource building blocks.
 
       # feature item loop
-    - title : SEO Optimized
-      icon : ti-stats-up # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum, dolor sit amet consectetur adipisicing elit. Possimus consectetur dolores repellendus eos saepe
+    - title : Machine learning
+      icon : ti-vector # themify icon pack : https://themify.me/themify-icons
+      content : We take a qualitive approach first and quantative second. That said, we are data literate and know how to combine blockchain and AI.
 
       # feature item loop
     - title : Easy Customization
