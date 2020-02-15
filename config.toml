@@ -84,7 +84,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/hackalonglogo.png"
+logo = "images/hackalonglogo4.png"
 # Meta data
 description = "lunarPunk Labs"
 author = "Hackalong"
@@ -96,7 +96,7 @@ post_share = true
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/hackalonglogo.png"
+preloader = "images/hackalonglogo4.png"
 
 # google map
 [params.map]
