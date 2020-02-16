@@ -29,6 +29,6 @@ service:
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name : Media &amp; Advertisement
+    - name : Pedagogical work
       icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : We learn by doing and can teach teams how to move faster by adopting new patterns and practices that create space for emergent knowlege and deep work.
