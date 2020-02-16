@@ -19,14 +19,14 @@ service:
       content : We learn by doing and can teach teams how to move faster by adopting new patterns and practices that create space for emergent knowlege and deep work.
 
     # service item loop
-    - name : Medicine & Pets
+    - name : Medicine & Animals
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Sometimes its best to just speak with people that know your industry. We can point you at effective facilitators familliar in navigating more regulated industries.
 
     # service item loop
     - name : Energy & Aviation
       icon : ti-bolt # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : There are many sectors we can work across but in particular we have strong knowlege base around the electricity and avaition industries. 
 
     # service item loop
     - name : Physical Internet
