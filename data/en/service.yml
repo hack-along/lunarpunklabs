@@ -4,14 +4,14 @@ service:
   title : Our Services
   service_item :
     # service item loop
-    - name : Physical Internet
-      icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      content : Self owning objects, houses, cars, trucks, shipping containers, internet of things and all flavours of secure internet identity AKA "digital twins".
+    - name : Design
+      icon : ti-brush # themify icon pack : https://themify.me/themify-icons
+      content : Speak to the creative collective and find a design scientist who understands the right questions to elucid from you to shape your project.
 
     # service item loop
-    - name : Apps Development
-      icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    - name : Development
+      icon : ti-ruler-alt # themify icon pack : https://themify.me/themify-icons
+      content : End to end distributed application development - discuss, design, deploy... and keep iterating! We embody principals of simplicity oriented design.
 
     # service item loop
     - name : Pedagogical work
@@ -19,16 +19,16 @@ service:
       content : We learn by doing and can teach teams how to move faster by adopting new patterns and practices that create space for emergent knowlege and deep work.
 
     # service item loop
-    - name : Graphic Design
-      icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-
-    # service item loop
-    - name : Medicine and Pets
+    - name : Medicine & Pets
       icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
 
     # service item loop
-    - name : Aviation
-      icon : ti-layout # themify icon pack : https://themify.me/themify-icons
+    - name : Energy & Aviation
+      icon : ti-bolt # themify icon pack : https://themify.me/themify-icons
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+
+    # service item loop
+    - name : Physical Internet
+      icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : Self owning objects - cars, trucks, shipping containers, houses, internet of things and all flavours of secure internet identity AKA "digital twins".
