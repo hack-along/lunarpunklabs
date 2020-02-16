@@ -92,6 +92,8 @@ author = "Hackalong"
 google_analitycs_id = "" # Your ID
 # post share
 post_share = true
+#custom css
+custom_css = ["css/style.css"]
 
 # preloader
 [params.preloader]
