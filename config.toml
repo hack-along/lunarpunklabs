@@ -11,10 +11,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
 
-[submodule “themes/meghna-hugo”]
-path = themes/meghna-hugo
-url = https://github.com/themefisher/meghna-hugo.git
-
 ############################# Plugins ##########################
 # css plugins
 [[params.plugins.css]]
