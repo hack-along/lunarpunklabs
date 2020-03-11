@@ -84,7 +84,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/hackalonglogo4.png"
+logo = "images/siteLogo.png"
 # Meta data
 description = "lunarPunk Labs"
 author = "Hackalong"
