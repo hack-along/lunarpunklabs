@@ -13,7 +13,7 @@ disableLanguages = []
 
 [submodule “themes/themename”]
 path = themes/meghna-hugo
-url = https://github.com/themefisher/meghna-hugo
+url = https://github.com/themefisher/meghna-hugo.git
 
 ############################# Plugins ##########################
 # css plugins
