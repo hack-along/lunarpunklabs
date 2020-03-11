@@ -44,6 +44,8 @@ link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
 
+
+
 ############################# Navigation ##################################
 [[menu.main]]
 name = "About Us"
@@ -92,8 +94,13 @@ author = "Hackalong"
 google_analitycs_id = "" # Your ID
 # post share
 post_share = true
+#theme css //modified from theme module
+theme_css = ["css/style.css"]
 #custom css
-custom_css = ["css/main.css"]
+custom_css = ["css/custom.css"]
+#custom js
+custom_js = ["js/custom.js"]
+
 
 # preloader
 [params.preloader]
