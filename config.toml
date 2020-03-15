@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://lunarpunklabs.hackalong.io/"
+baseURL = "https://lunarpunklabs.hackalong.io"
 title = "LunarPunk Labs"
 theme = "meghna-hugo"
 # post pagination
@@ -38,8 +38,6 @@ link = "plugins/shuffle/shuffle.min.js"
 [[params.plugins.js]]
 link = "plugins/magnific-popup/jquery.magnific-popup.min.js"
 [[params.plugins.js]]
-link = "plugins/wow/wow.min.js"
-[[params.plugins.js]]
 link = "plugins/lazy-load/lozad.min.js"
 [[params.plugins.js]]
 link = "plugins/google-map/map.js"
@@ -57,36 +55,37 @@ name = "Service"
 URL = "services"
 weight = 2
 
-[[menu.main]]
-name = "Portfolio"
-URL = "portfolio"
-weight = 3
-
-[[menu.main]]
-name = "Team"
-URL = "team"
-weight = 4
-
-[[menu.main]]
-name = "Pricing"
-URL = "pricing"
-weight = 5
-
-[[menu.main]]
-name = "Blog"
-URL = "blog"
-weight = 6
+# [[menu.main]]
+# name = "Portfolio"
+# URL = "portfolio"
+# weight = 3
+#
+# [[menu.main]]
+# name = "Team"
+# URL = "team"
+# weight = 4
+#
+# [[menu.main]]
+# name = "Pricing"
+# URL = "pricing"
+# weight = 5
+#
+# [[menu.main]]
+# name = "Blog"
+# URL = "blog"
+# weight = 6
 
 [[menu.main]]
 name = "Contact"
 URL = "contact"
-weight = 7
+weight = 3
 
 
 
 ############################# Default Parameters ##########################
 [params]
 logo = "images/siteLogo.png"
+logo_light = "images/siteLogo_light.png"
 # Meta data
 description = "lunarPunk Labs"
 author = "Hackalong"
@@ -100,7 +99,9 @@ theme_css = ["css/style.css"]
 custom_css = ["css/custom.css"]
 #custom js
 custom_js = ["js/custom.js"]
-
+#load plugins missing from theme directory
+wow = "plugins/wow/dist/wow.min.js"
+animate = "plugins/wow/css/libs/animate.css"
 
 # preloader
 [params.preloader]

@@ -1,12 +1,16 @@
 const root = document.documentElement;
 const moon = document.getElementById("moon-toggle");
+const nav = document.querySelector("nav");
 let night = true;
-
+new WOW()
+  .init();
 //if the moon toggle present, set on click event listener
 if (moon) {
   moon.addEventListener("click", e => {
     //if not night mode, turn it on
     if (!night) {
+      nav.classList.remove('navbar-light')
+      nav.classList.add('navbar-dark')
       //change variables
       root.style.setProperty('--black', '#000000');
       root.style.setProperty('--shade-900', '#242930');
@@ -24,6 +28,8 @@ if (moon) {
       e.target.innerHTML = "🌙"
       night = true;
     } else {
+      nav.classList.remove('navbar-dark')
+      nav.classList.add('navbar-light')
       //change variables
       root.style.setProperty('--black', 'white');
       root.style.setProperty('--shade-900', '#f8f8f8');

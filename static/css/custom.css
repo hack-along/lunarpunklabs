@@ -12,3 +12,17 @@
     padding: 10px 35px;
     text-transform: uppercase;
 }
+
+.logo-nav {
+  width: 250px;
+}
+
+
+.navbar-light .logo-light,
+.navbar-dark .logo-dark {
+  display: inline-block;
+}
+.navbar-dark .logo-light,
+.navbar-light .logo-dark {
+  display: none;
+}
