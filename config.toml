@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "lunarpunklabs.hackalong.io"
+baseURL = "https://lunarpunklabs.hackalong.io/"
 title = "LunarPunk Labs"
 theme = "meghna-hugo"
 # post pagination

@@ -1,0 +1,14 @@
+
+.call-to-action p , .call-to-action h2 {
+  color: var(--white) ;
+}
+
+.btn-main {
+    background: var(--shade-900);
+    color: var(--white);
+    display: inline-block;
+    font-size: 14px;
+    letter-spacing: 1px;
+    padding: 10px 35px;
+    text-transform: uppercase;
+}
