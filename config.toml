@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://lunarpunklabs.hackalong.io"
+baseURL = "https://compassionate-rosalind-cf888f.netlify.com/"
 title = "LunarPunk Labs"
 theme = "meghna-hugo"
 # post pagination
