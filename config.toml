@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://compassionate-rosalind-cf888f.netlify.com/"
+baseURL = "https://lunarpunklabs.netlify.com"
 title = "LunarPunk Labs"
 theme = "meghna-hugo"
 # post pagination
