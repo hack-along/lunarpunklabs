@@ -26,3 +26,9 @@
 .navbar-light .logo-dark {
   display: none;
 }
+
+@media (max-width: 575.98px) {
+  .navbar-brand {
+    width:50%
+  }
+}
