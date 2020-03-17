@@ -9,19 +9,19 @@ feature:
       # feature item loop
     - title : Blockchain
       icon : ti-link # themify icon pack : https://themify.me/themify-icons
-      content : With deep experience in decentralised and distributed computing, we can filter signal throught the noise.
+      content : With deep experience in decentralized and distributed computing, we can filter the signal through the noise.
 
       # feature item loop
     - title : Machine learning
       icon : ti-vector # themify icon pack : https://themify.me/themify-icons
-      content : We take a qualitive approach first and quantative second. We are data literate and can combine blockchain and AI.
+      content : We take a qualitative approach first and quantitative second. We are data literate and can combine blockchain and AI.
 
       # feature item loop
     - title : Consultation
       icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
-      content : Venture into the unknown with humble guides. We're good at simplifying R&D so lets start a conversation - what do you need?
+      content : Venture into the unknown with humble guides. We're good at simplifying R&D so let's start a conversation - what do you need?
 
       # feature item loop
     - title : Bespoke products
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Custom buisness logic according to your needs. We build on cutting edge technology and opensource building blocks.
+      content : Custom business logic according to your needs. We build on cutting edge technology and opensource building blocks.

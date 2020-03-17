@@ -4,7 +4,7 @@ cta:
   bg_image : "images/backgrounds/Onion4salient.jpg"
   bg_image_webp : "images/backgrounds/Onion4salient.webp"
   title : "Creative and composed"
-  content : "Grounded in nature we find great creative depth. Our stories are important so lets reach for the stars and not just satellities!"
+  content : "Grounded in nature we find great creative depth. Our stories are important so let's reach for the stars and not just satellites!"
   button:
     enable : true
     label : "Start a project with us"
