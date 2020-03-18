@@ -12,22 +12,22 @@
 
 	{{ "<!-- plugins -->" | safeHTML }}
 	{{ range .Site.Params.plugins.css }}
-	<link rel="stylesheet" href="{{ .link | absURL }} ">
+	<link rel="stylesheet" href="{{ .link | relURL }} ">
 	{{ end }}
 
 	{{"<!-- Main Stylesheet -->"|safeHTML}}
 	{{ range .Site.Params.theme_css }}
-			<link rel="stylesheet" href="{{ . | absURL }}" media="screen">
+			<link rel="stylesheet" href="{{ . | relURL }}" media="screen">
 	{{- end }}
 	{{ range .Site.Params.custom_css }}
-			<link rel="stylesheet" href="{{ . | absURL }}" media="screen">
+			<link rel="stylesheet" href="{{ . | relURL }}" media="screen">
 	{{- end }}
 	{{ with .Site.Params.animate }}
-			<link rel="stylesheet" href="{{ . | absURL }}" media="screen">
+			<link rel="stylesheet" href="{{ . | relURL }}" media="screen">
 	{{- end }}
 
 	{{ "<!--Favicon-->" | safeHTML }}
-	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
-	<link rel="icon" href="{{ `images/favicon.png` | absURL }} " type="image/x-icon">
+	<link rel="shortcut icon" href="{{ `images/favicon.png` | relURL }} " type="image/x-icon">
+	<link rel="icon" href="{{ `images/favicon.png` | relURL }} " type="image/x-icon">
 
 </head>

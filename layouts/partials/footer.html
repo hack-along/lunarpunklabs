@@ -16,7 +16,7 @@
 				{{"<!-- copyright -->" | safeHTML}}
 				<div class="copyright text-center">
 					<a href="{{ .Site.BaseURL | absLangURL }}">
-						<img class="w-25" src="{{ .Site.Params.logo | absURL }}" alt="{{ .Site.Title }}" />
+						<img class="w-25" src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}" />
 					</a>
 					<br>
 					<p>{{ i18n "copyright" | markdownify }}</p>
@@ -34,7 +34,7 @@
 
 {{ "<!-- JS Plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.js}}
-<script src="{{ .link | absURL }}"></script>
+<script src="{{ .link | relURL }}"></script>
 {{ end }}
 
 {{ "<!-- Main Script -->" | safeHTML }}
@@ -42,10 +42,10 @@
 <script src="{{ $script.Permalink }}"></script>
 
 {{ with .Site.Params.wow }}
-<script src="{{ . | absURL }}"></script>
+<script src="{{ . | relURL }}"></script>
 {{ end }}
 {{ range .Site.Params.custom_js }}
-<script src="{{ . | absURL }}"></script>
+<script src="{{ . | relURL }}"></script>
 {{ end }}
 
 {{ "<!-- google analitycs -->" | safeHTML }}
