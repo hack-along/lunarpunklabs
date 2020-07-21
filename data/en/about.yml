@@ -1,17 +1,17 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Us
+  title : About Holons
   about_item :
 
-  - icon : ti-direction-alt # themify icon pack : https://themify.me/themify-icons
-    title : We're Fluid
-    content : Our direction remains open to change. Our tech stack is flexible, which enables us to iterate quickly and pivot whenever needed.
-
   - icon : ti-user # themify icon pack : https://themify.me/themify-icons
-    title : We're Human
-    content : We're experienced practitioners in human-centric design. We build local first solutions and generalized software that can scale.
+    title : Create an Holon
+    content : Form an holon with your collaborators. Other holons can also be members!
 
-  - icon : ti-thought # themify icon pack : https://themify.me/themify-icons
-    title : We're intelligent
-    content : We harness the power of networked thought from within the Hackalong network. Knowledge without borders from collaborators far and wide.
+  - icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+    title : Give Appreciation
+    content : Appreciation is the default signal to highlight contribution to the purpose of the holon
+
+  - icon : ti-pie-chart # themify icon pack : https://themify.me/themify-icons
+    title : Share Rewards
+    content : Every ether or ERC20 sent to the holon will be automatically splitted according to the appreciator received

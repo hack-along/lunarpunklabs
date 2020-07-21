@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://lunarpunklabs.netlify.com"
-title = "LunarPunk Labs"
+title = "Holons"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -84,10 +84,10 @@ weight = 3
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/siteLogo.png"
-logo_light = "images/siteLogo_light.png"
+logo = "images/holons.png"
+logo_light = "images/holonslight.png"
 # Meta data
-description = "lunarPunk Labs"
+description = "Holons"
 author = "Hackalong"
 # Google Analitycs
 google_analitycs_id = "" # Your ID
@@ -106,7 +106,7 @@ animate = "plugins/wow/css/libs/animate.css"
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/hackalonglogo4.png"
+preloader = "images/holons.png"
 
 # google map
 [params.map]
@@ -119,7 +119,7 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "https://github.com/hack-along/"
+link = "https://github.com/hack-along/holons"
 
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons

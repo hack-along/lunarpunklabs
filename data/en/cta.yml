@@ -3,9 +3,9 @@ cta:
   enable : true
   bg_image : "images/backgrounds/Onion4salient.jpg"
   bg_image_webp : "images/backgrounds/Onion4salient.webp"
-  title : "Creative and composed"
-  content : "Grounded in nature we find great creative depth. Our stories are important so let's reach for the stars and not just satellites!"
+  title : "Enter the future of scale-free organizations and collaborations"
+  content : "Every new holon will be tracked forever on the blockchain. Open one now, and be amongst the first movers in the revolution."
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "Open the demo dApp"
+    link : "https://holons.hackalong.io"

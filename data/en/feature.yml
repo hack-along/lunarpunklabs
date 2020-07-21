@@ -3,25 +3,28 @@ feature:
   enable : true
   image : images/backgrounds/Cymatics5.jpg
   image_webp : images/backgrounds/Cymatics5.webp
-  title : We're an Open Innovation Lab.
-  content : "We design, innovate and implement custom soloutions and business logic."
+  title : Holons come in flavours 
+  content : "Depending on the group preferences, every holon can be initialized with different settings, allowing all kind of organization and reward structures to arise, while still being able to stack all holons together."
   feature_item :
       # feature item loop
-    - title : Blockchain
+    - title : Blanket holon
       icon : ti-link # themify icon pack : https://themify.me/themify-icons
-      content : With deep experience in decentralized and distributed computing, we can filter the signal through the noise.
-
+      content : Reward every member equally, no question asked
       # feature item loop
-    - title : Machine learning
+    - title : Appreciation holon
       icon : ti-vector # themify icon pack : https://themify.me/themify-icons
-      content : We take a qualitative approach first and quantitative second. We are data literate and can combine blockchain and AI.
-
+      content : Share reward according to the level of appreciation received by other members
       # feature item loop
-    - title : Consultation
-      icon : ti-rocket # themify icon pack : https://themify.me/themify-icons
-      content : Venture into the unknown with humble guides. We're good at simplifying R&D so let's start a conversation - what do you need?
-
-      # feature item loop
-    - title : Bespoke products
+    - title : Hybrid holon
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
-      content : Custom business logic according to your needs. We build on cutting edge technology and opensource building blocks.
+      content : A bit of the best of both worlds, a percentage of the reward is splitted equally, while the rest is splitted according to the appreciation received.
+      # feature item loop
+    - title : Pop up
+      icon : ti-rocket  # themify icon pack : https://themify.me/themify-icons
+      content : Great for hackathons! Set a deadline, noone will be able to make changes to the holon after that. 
+    - title : Time
+      icon : ti-time # themify icon pack : https://themify.me/themify-icons
+      content : Account for hours spent on the project
+    - title : Add your own
+      icon : ti- # themify icon pack : https://themify.me/themify-icons
+      content : You can choose to create a flavour of holons and upload it to the system. People will pick it up if they find it more useful than others!
