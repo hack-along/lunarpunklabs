@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://lunarpunklabs.netlify.com"
+baseURL = "https://holonssite.netlify.com"
 title = "Holons"
 theme = "meghna-hugo"
 # post pagination
@@ -46,14 +46,14 @@ link = "plugins/google-map/map.js"
 
 ############################# Navigation ##################################
 [[menu.main]]
-name = "About Us"
+name = "About"
 URL = "about"
 weight = 1
 
-[[menu.main]]
-name = "Service"
-URL = "services"
-weight = 2
+#[[menu.main]]
+#name = "Service"
+#URL = "services"
+#weight = 2
 
 # [[menu.main]]
 # name = "Portfolio"
@@ -75,10 +75,10 @@ weight = 2
 # URL = "blog"
 # weight = 6
 
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 3
+#[[menu.main]]
+#name = "Contact"
+#URL = "contact"
+#weight = 3
 
 
 

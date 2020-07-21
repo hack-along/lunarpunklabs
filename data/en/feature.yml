@@ -19,12 +19,12 @@ feature:
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons
       content : A bit of the best of both worlds, a percentage of the reward is splitted equally, while the rest is splitted according to the appreciation received.
       # feature item loop
-    - title : Pop up
+    - title : Pop up holon
       icon : ti-rocket  # themify icon pack : https://themify.me/themify-icons
       content : Great for hackathons! Set a deadline, noone will be able to make changes to the holon after that. 
-    - title : Time
+    - title : Time based holon
       icon : ti-time # themify icon pack : https://themify.me/themify-icons
       content : Account for hours spent on the project
-    - title : Add your own
-      icon : ti- # themify icon pack : https://themify.me/themify-icons
+    - title : Add your own ..
+      icon : ti-plus # themify icon pack : https://themify.me/themify-icons
       content : You can choose to create a flavour of holons and upload it to the system. People will pick it up if they find it more useful than others!
