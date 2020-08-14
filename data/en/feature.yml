@@ -4,7 +4,7 @@ feature:
   image : images/backgrounds/Cymatics5.jpg
   image_webp : images/backgrounds/Cymatics5.webp
   title : Holons come in flavours 
-  content : "Depending on the group preferences, every holon can be initialized with different settings, allowing all kind of organization and reward structures to arise, while still being able to stack all holons together."
+  content : "Depending on the group preferences, every holon can be initialized with different settings, allowing all sorts of organizations and reward structures to arise."
   feature_item :
       # feature item loop
     - title : Blanket holon
@@ -13,7 +13,7 @@ feature:
       # feature item loop
     - title : Appreciation holon
       icon : ti-vector # themify icon pack : https://themify.me/themify-icons
-      content : Share reward according to the level of appreciation received by other members
+      content : Share reward according to the level of appreciation received from other members
       # feature item loop
     - title : Hybrid holon
       icon : ti-panel # themify icon pack : https://themify.me/themify-icons

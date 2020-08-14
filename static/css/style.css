@@ -687,12 +687,12 @@ a:hover {
 
 .call-to-action h2 {
   font-weight: 700;
-  color: var(--text-color);
+  color: var(--black);
 }
 
 .call-to-action p {
   font-size: 16px;
-  color: var(--text-color-accent);
+  color: var(--black);
 }
 
 .call-to-action .btn-main {
@@ -706,7 +706,7 @@ a:hover {
   padding: 100px 0;
   background-image: url("../images/call-to-action/call-to-action-bg.jpg");
   background-size: cover;
-  color: var(--white);
+  color: var(--black);
 }
 
 .call-to-action-2 h2 {
@@ -714,7 +714,7 @@ a:hover {
 }
 
 .call-to-action-2 p {
-  color: var(--white);
+  color: var(--black);
 }
 
 .call-to-action-2 .btn-main {

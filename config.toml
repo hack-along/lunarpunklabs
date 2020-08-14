@@ -106,7 +106,7 @@ animate = "plugins/wow/css/libs/animate.css"
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/holons.png"
+preloader = "images/liminal.png"
 
 # google map
 [params.map]
